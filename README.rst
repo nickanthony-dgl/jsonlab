@@ -1,3 +1,5 @@
+This fork of JSONLab adds proper handing of JSON null values.
+
 .. image:: https://neurojson.org/wiki/upload/neurojson_banner_long.png
 
 ########################################################################################
